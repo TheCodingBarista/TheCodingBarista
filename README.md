@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 
 # Check out my blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Money Moves](https://dev.to/thecodingbarista/money-moves-3m0h)
+- [The Coffee Project: Sinatra knows this ditty](https://dev.to/thecodingbarista/the-coffee-project-sinatra-knows-this-ditty-18om)
+- [Dev.to CLI Gem](https://dev.to/thecodingbarista/cli-project-1g31)
 <!-- BLOG-POST-LIST:END -->
